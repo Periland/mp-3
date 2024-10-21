@@ -1,10 +1,5 @@
-import React from 'react';
-import Main from './main';
 import cheers from '../media/cheers.png';
 import accushoot from '../media/accushoot.png';
-import Footer from './footer';
-import Nav from './nav';
-import Header from './header';
 import CommonWrapper from './commonwrapper';
 
 

@@ -1,7 +1,5 @@
-import { useState } from 'react'
-import Header from './components/header'
+
 import './App.css'
-import Nav from './components/nav'
 import Home from './components/home'
 import Experience from './components/experience'
 import Projects from './components/projects'

@@ -1,8 +1,4 @@
-import Main from './main'
 import me from '../media/me.png'
-import Nav from './nav'
-import Header from './header'
-import Footer from './footer'
 import CommonWrapper from './commonwrapper'
 
 export default function Home() {

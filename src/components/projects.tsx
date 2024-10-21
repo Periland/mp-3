@@ -1,5 +1,3 @@
-import React from 'react';
-import Main from './main';
 import CommonWrapper from './commonwrapper';
 import { Link } from 'react-router-dom';
 
