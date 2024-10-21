@@ -1,6 +1,6 @@
 import CommonWrapper from "./commonwrapper";
 import ferrari from "../media/ferrari.png";
-import karting from "../media/karting.jpg";
+import karting from "../media/Karting.jpg";
 import simracing from "../media/simracing.png";
 
 export default function Interests() {
