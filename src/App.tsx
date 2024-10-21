@@ -7,11 +7,7 @@ import Education from './components/education'
 import Training from './components/training'
 import Interests from './components/interests'
 import Calculator from './components/calculator'
-
-import Main from './components/main'
-import React from 'react'
 import {createBrowserRouter, Route, RouterProvider, Routes} from 'react-router-dom'
-import Footer from './components/footer'
 
 function Root() {
   return (
